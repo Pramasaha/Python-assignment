@@ -1,0 +1,34 @@
+[
+    {
+        "type": "currency",
+        "base": "USD",
+        "target": "BDT",
+        "rate": 123.41,
+        "time": "2026-07-24 02:10:23"
+    },
+    {
+        "type": "weather",
+        "city": "Chittagong",
+        "temperature": 25,
+        "humidity": 93,
+        "wind_speed": 21,
+        "condition": "Light rain shower",
+        "time": "2026-07-24 02:11:03"
+    },
+    {
+        "type": "currency",
+        "base": "EURO",
+        "target": "BDT",
+        "rate": 140.82,
+        "time": "2026-07-24 02:11:37"
+    },
+    {
+        "type": "weather",
+        "city": "Dhaka",
+        "temperature": 25,
+        "humidity": 93,
+        "wind_speed": 10,
+        "condition": "Cloudy ",
+        "time": "2026-07-24 02:11:58"
+    }
+]
